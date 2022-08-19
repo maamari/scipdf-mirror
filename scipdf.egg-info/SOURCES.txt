@@ -1,0 +1,14 @@
+README.md
+serve_grobid.sh
+setup.py
+scipdf/__init__.py
+scipdf.egg-info/PKG-INFO
+scipdf.egg-info/SOURCES.txt
+scipdf.egg-info/dependency_links.txt
+scipdf.egg-info/requires.txt
+scipdf.egg-info/top_level.txt
+scipdf/features/__init__.py
+scipdf/features/text_utils.py
+scipdf/pdf/__init__.py
+scipdf/pdf/parse_pdf.py
+scipdf/pdf/pdffigures2/pdffigures2-assembly-0.0.12-SNAPSHOT.jar
